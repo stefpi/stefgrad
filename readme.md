@@ -2,5 +2,10 @@
 
 remake of micrograd and then expanding on micrograd
 
-[*] micrograd with scalar values
-[*] micrograd extended to tensors
+- [x] micrograd with scalar values
+- [x] micrograd extended to tensors
+- [ ] add new loss functions
+- [ ] add new activations functions
+- [ ] train MNIST
+- [ ] add GPU training support
+- [ ] train MNIST on GPU
