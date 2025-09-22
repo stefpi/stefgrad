@@ -1,7 +1,7 @@
 import numpy as np
 
 from stefgrad.tensor import Tensor
-from stefgrad.nn import Neuron, Layer, MLP
+from stefgrad.nn.networks import MLP
 
 from graphviz import Digraph
 
